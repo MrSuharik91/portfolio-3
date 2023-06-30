@@ -5,7 +5,7 @@ body {
     margin-top:70px;
 }
 .fon{
-  background-image:url(fon.png);
+  background-image:url(../images/fon.png);
   height:900px;
   display: flex;
   flex-direction: column;
@@ -137,7 +137,7 @@ body {
     width: 600px;
 }
 .sun{
-    background-image:url(Rectangle\ 10.png);
+    background-image:url(../images/Rectangle\ 10.png);
     height: 500px;
     width:100%;
     display: flex;
